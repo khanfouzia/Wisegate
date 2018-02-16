@@ -1,2 +1,2 @@
 # Wisegate
-Scripts for Wisegate/Inside Track
+Upcoming events creation and validation Scripts for Wisegate/Inside Track
